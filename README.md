@@ -18,7 +18,7 @@ Computer A then proxies this connection to the remote system
 
 Accessing things from Computer B via Computer A is done by using a DNS query of this format:
 
-hostname.tld.<rport>.<lport>.portfwd
+hostname.tld.rport.lport.portfwd
 
 Usage:
 
